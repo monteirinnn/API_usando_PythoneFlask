@@ -1,2 +1,2 @@
-# API_em_python
+# API para bibliotecas usando Python e Flask
  
